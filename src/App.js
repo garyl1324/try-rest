@@ -8,7 +8,7 @@ const App = () =>{
 
  <div className="container">
 
- <p>mr-headrick</p>
+ <p>garrison leach</p>
 
  </div>
 
